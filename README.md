@@ -1,4 +1,6 @@
 # Swapping-two-values
+## REG NO: 212223230071
+## NAME: HARISH S
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -18,11 +20,13 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+![image](https://github.com/pirateharishs/Swapping-two-values/assets/166011385/ce2d5697-1677-4d57-b087-90aa19edff9e)
 
-
+## OUTPUT:
+![image](https://github.com/pirateharishs/Swapping-two-values/assets/166011385/98042b3d-3066-4009-aba4-7de0089046f7)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
